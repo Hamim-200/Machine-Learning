@@ -1,7 +1,7 @@
 # Machine-Learning
 
 - Module-1-Statistics and Mathematics for ML
-- Module-2
+- Module-2-Probability Basics for ML
 - Module-3
 - Module-4
 - Module-5
@@ -9,3 +9,7 @@
 - Module-7
 - Module-8
 - Module-9
+
+## Conceptual Session
+
+- ML Week-01 CS-01 -> Descriptive Statistics and Distributions
