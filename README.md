@@ -13,3 +13,4 @@
 ## Conceptual Session
 
 - ML Week-01 CS-01 -> Descriptive Statistics and Distributions
+- ML Week-01 CS-02 -> Probability, Descriptive Statistics ,Distributions
