@@ -2,7 +2,7 @@
 
 - Module-1-Statistics and Mathematics for ML
 - Module-2-Probability Basics for ML
-- Module-3
+- Module-3-Scaling, Encoding, and Distances
 - Module-4
 - Module-5
 - Module-6
