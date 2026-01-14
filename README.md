@@ -2,12 +2,13 @@
 
 - Module-1-Statistics and Mathematics for ML
 - Module-2-Probability Basics for ML
+- Module-2.5-Practice Day
 - Module-3-Scaling, Encoding, and Distances
-- Module-4
-- Module-5
-- Module-6
-- Module-7
-- Module-8
+- Module-4-Assignment 01
+- Module-5-Introduction To Machine Learning
+- Module-6-Exploratory Daya Analysis(EDA)
+- Module-7-Data Processing And Feature Engineering
+- Module-8- Assignment 02
 - Module-9
 
 ## Conceptual Session
