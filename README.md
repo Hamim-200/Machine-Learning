@@ -10,6 +10,10 @@
 - Module-7-Data Processing And Feature Engineering
 - Module-8- Assignment 02
 - Module-9
+- Module-10
+- Module-11
+- Module-12
+
 
 ## Conceptual Session
 
