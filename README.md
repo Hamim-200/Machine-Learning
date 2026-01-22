@@ -4,6 +4,7 @@
 - Module-2-Probability Basics for ML
 - Module-2.5-Practice Day
 - Module-3-Scaling, Encoding, and Distances
+- Module-3.5-Practice Day
 - Module-4-Assignment 01
 - Module-5-Introduction To Machine Learning
 - Module-6-Exploratory Daya Analysis(EDA)
