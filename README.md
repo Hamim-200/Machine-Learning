@@ -26,3 +26,4 @@
 
 - ML Week-01 CS-01 -> Descriptive Statistics and Distributions
 - ML Week-01 CS-02 -> Probability, Descriptive Statistics ,Distributions
+- ML Week-02 CS-01 -> Linear Algebra, Vector, Matrix, Overfitting and Underfitting
