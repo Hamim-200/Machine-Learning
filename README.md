@@ -9,12 +9,12 @@
 - Module-5-Introduction To Machine Learning
 - Module-6-Exploratory Day Analysis(EDA)
 - Module-7-Data Processing And Feature Engineering
-- Module-8- Assignment 02
-- Module-9
-- Module-10
-- Module-11
-- Module-12
-- Module-13
+- Module-8-Assignment 02
+- Module-9-Data Preprocessing and Feature Engineering Part 2
+- Module-10-linear Regression & Logistic Regression 
+- Module-11-Decision Tree
+- Module-12-ML Mid Term Exam
+- Module-13- Multiple Linear Regression and Polynomial Regression
 - Module-14
 - Module-15
 - Module-16
